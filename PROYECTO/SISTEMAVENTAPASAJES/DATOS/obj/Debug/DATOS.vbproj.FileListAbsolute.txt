@@ -1,0 +1,19 @@
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\bin\Debug\DATOS.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\bin\Debug\DATOS.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\bin\Debug\DATOS.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.vbprojResolveAssemblyReference.cache
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.Resources.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.vbproj.GenerateResource.Cache
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\bin\Debug\DATOS.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\bin\Debug\DATOS.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\bin\Debug\DATOS.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.vbproj.AssemblyReference.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.Resources.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.vbproj.GenerateResource.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.vbproj.CoreCompileInputs.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\DATOS\obj\Debug\DATOS.pdb

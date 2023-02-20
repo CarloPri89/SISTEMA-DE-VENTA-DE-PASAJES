@@ -1,0 +1,26 @@
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\bin\Debug\Negocio.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\bin\Debug\Negocio.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\bin\Debug\Negocio.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\bin\Debug\DATOS.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\bin\Debug\DATOS.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\bin\Debug\DATOS.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.vbprojResolveAssemblyReference.cache
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.Resources.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.Cache
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\bin\Debug\Negocio.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\bin\Debug\Negocio.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\bin\Debug\Negocio.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\bin\Debug\DATOS.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\bin\Debug\DATOS.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\bin\Debug\DATOS.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.vbproj.AssemblyReference.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.Resources.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.vbproj.GenerateResource.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.vbproj.CoreCompileInputs.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.vbproj.CopyComplete
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\Negocio\obj\Debug\Negocio.pdb

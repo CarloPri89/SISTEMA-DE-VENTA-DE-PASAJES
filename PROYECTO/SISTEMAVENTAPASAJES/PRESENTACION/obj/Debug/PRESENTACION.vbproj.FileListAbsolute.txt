@@ -1,0 +1,65 @@
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.exe
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\DATOS.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Negocio.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\DATOS.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\DATOS.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Negocio.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Negocio.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbprojResolveAssemblyReference.cache
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.Resources.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.GenerateResource.Cache
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.exe
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.xml
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.pdb
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.MDIMENU.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmventa.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmmantenimientocliente.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmlistadoventas.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmmantenimientobus.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmruta.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmmantenimientousuario.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmcambiarclave.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frminicio.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmprincipal.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmcomprobante.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmcorreos.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmProgramacion.resources
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+E:\ClasesVII-ciclo\Laboratorio de programaciónIII\Trabajos\Trabajo Final\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.ResolveComReference.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.exe.config
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.exe
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\PRESENTACION.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\DATOS.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Negocio.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\DATOS.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\DATOS.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Negocio.pdb
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\Negocio.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.AssemblyReference.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.SuggestedBindingRedirects.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.ResolveComReference.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmcorreos.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmcambiarclave.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmcomprobante.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frminicio.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmlistadoventas.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmmantenimientobus.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmmantenimientocliente.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmmantenimientousuario.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmprincipal.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmProgramacion.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmruta.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.frmventa.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.MDIMENU.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.Resources.resources
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.GenerateResource.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.CoreCompileInputs.cache
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.vbproj.CopyComplete
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.exe
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.xml
+C:\Users\carpe\Desktop\SISTEMA DE VENTA DE PASAJES\PROYECTO\SISTEMAVENTAPASAJES\PRESENTACION\obj\Debug\PRESENTACION.pdb
